@@ -2,9 +2,9 @@
 ------
 ## part 1
 
-![Image] (pic2-code.png)
+![Image](pic2-code.png)
 
-![Image] (pic2-1.png)
+![Image](pic2-1.png)
 
 * The method(s) in my code that are called for this are: `public String handleRequest(URI url)`
 * The relevant argument(s) for this argument is: `if (url.getPath().equals("/add-message"))`
@@ -16,7 +16,7 @@
     * The values of these fields depend on the user input in the URL completely because I adjust the fields according to the input so that what is displayed into the web server aligns with the user input.
 
 
-![Image] (pic2-2.png)
+![Image](pic2-2.png)
 
 * The method(s) in my code that are called for this are: `public String handleRequest(URI url)`
 * The relevant argument(s) for this argument is: `if (url.getPath().equals("/add-message"))`
@@ -31,11 +31,11 @@
 
 ## part 2
 
-![Image] (pic2-3.png)
+![Image](pic2-3.png)
 * This picture shows the absolute path to the private key for logging into the `ieng6`
-![Image] (pic2-4.png)
+![Image](pic2-4.png)
 * This picture shows the absolute path to the public key for logging into the `ieng6`
-![Image] (pic2-5.png)
+![Image](pic2-5.png)
 * This was an error I was getting. I was unable to log into the `ieng6` in such a way that it did not prompt me to input my password again. I discussed this with the tutors and TA's during the lab period and they figured out I was not doing anything wrong, but it was an error on their end which we still have not figured out.
 
 ## part 3
