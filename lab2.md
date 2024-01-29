@@ -33,8 +33,12 @@
 
 ![Image](pic2-3.png)
 * This picture shows the absolute path to the private key for logging into the `ieng6`
+
+
 ![Image](pic2-4.png)
 * This picture shows the absolute path to the public key for logging into the `ieng6`
+
+  
 ![Image](pic2-5.png)
 * This was an error I was getting. I was unable to log into the `ieng6` in such a way that it did not prompt me to input my password again. I discussed this with the tutors and TA's during the lab period and they figured out I was not doing anything wrong, but it was an error on their end which we still have not figured out.
 
