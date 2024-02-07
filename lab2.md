@@ -39,8 +39,8 @@
 * This picture shows the absolute path to the public key for logging into the `ieng6`
 
   
-![Image](pic2-5.png)
-* This was an error I was getting. I was unable to log into the `ieng6` in such a way that it did not prompt me to input my password again. I discussed this with the tutors and TA's during the lab period and they figured out I was not doing anything wrong, but it was an error on their end which we still have not figured out.
+![Image](pic2-6.png)
+* This picture shows the terminal interaction where I am logging into my `ieng6` account without being prompted to enter my password.
 
 ## part 3
 During the last two lab periods I feel as though I learned a lot. I really liked discovering how to create our own web servers because I think it is really interesting and it was cool to see it. Another thing I liked learning about was the ports and when me and another student are logged into the same machine, we are able to access each other's servers. These are both things I did not even know existed before these last couple of weeks, which is why I found it to be so interesting and cool to learn.
