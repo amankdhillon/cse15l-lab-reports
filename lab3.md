@@ -70,20 +70,29 @@ This is why after the fix, changing it to `int temp = arr[i]`, the value of temp
 
 I chose to research the `less` command.
 Here are the outputs of the terminal when I use `less biomed/`, which is a directory:
+
 ![Image](pic3-2.png)
+
 and when I use `less helloWorld.txt`, which is a file:
+
 ![Image](pic3-3.png)
 
 The first alternative I found was the `more` command, which had the following outputs:
+
 ![Image](pic3-4.png)
+
 ![Image](pic3-5.png)
 
 The second alternative I found was the `echo "$(<filename)"` command, which had the following outputs:
+
 ![Image](pic3-6.png)
+
 ![Image](pic3-7.png)
 
 The third alternative I found was the `more` command, which had the following outputs:
+
 ![Image](pic3-8.png)
 
 The fourth alternative I found was the `cat` command, which had the following outputs:
+
 ![Image](pic3-9.png)
