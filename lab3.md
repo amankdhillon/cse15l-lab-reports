@@ -69,7 +69,8 @@ This is why after the fix, changing it to `int temp = arr[i]`, the value of temp
 ## Part 2: Researching Commands
 
 I chose to research the `less` command.
-Here are the outputs of the terminal when I use `less biomed/`, which is a directory:
+The `less` command is used to view files in the terminal, which is why the images of calling the variants of `less` on directories has no valid outputs.
+Here is what `less` looks like when being called on a directory:
 
 ![Image](pic3-2.png)
 
