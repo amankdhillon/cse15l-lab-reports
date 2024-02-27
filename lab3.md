@@ -119,3 +119,5 @@ This had the following outputs on a file versus a directory:
 [Source 1](https://ioflood.com/blog/less-linux-command/#:~:text=The%20'more'%20command%20is%20similar,through%20a%20file%2C%20not%20backward.&text=To%20navigate%20to%20the%20next%20screen%2C%20simply%20press%20the%20spacebar.)
 
 [Source 2](https://unix.stackexchange.com/questions/86321/how-can-i-display-the-contents-of-a-text-file-on-the-command-line)
+
+[Less Command in Linux](https://phoenixnap.com/kb/less-command-in-linux)
