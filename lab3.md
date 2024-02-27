@@ -72,31 +72,46 @@ I chose to research the `less` command.
 The `less` command is used to view files in the terminal, which is why the images of calling the variants of `less` on directories has no valid outputs.
 Here is what `less` looks like when being called on a directory:
 
-![Image](pic3-2.png)
+![Image](lessDirectory.png)
 
 and when I use `less helloWorld.txt`, which is a file:
 
+![Image](lessFile.png)
+
+The first alternative I found was the `less -N` command, which displays the line number next to the each file line. This is useful when the file is very long and you need to refer to specific line numbers.
+This had the following outputs on a file:
+
+![Image](pic3-2.png)
+
 ![Image](pic3-3.png)
 
-The first alternative I found was the `more` command, which had the following outputs:
+Here was the output for calling the command on a directory:
 
 ![Image](pic3-4.png)
 
-![Image](pic3-5.png)
+The second alternative I found was the `less -F` command, this causes the terminal to immediately exit the file if it can be displayed on one screen, which is useful to quickly view short files.
+This had the following outputs on a file versus a directory:
 
-The second alternative I found was the `echo "$(<filename)"` command, which had the following outputs:
+![Image](pic3-5.png)
 
 ![Image](pic3-6.png)
 
-![Image](pic3-7.png)
+The third alternative I found was the `less -X` command, which allows the user to stay in the terminal while viewing the file. This is useful because the screen is not clearing and the user can retain context of the terminal while viewing the file. 
+This had the following outputs on a file versus the directory:
 
-The third alternative I found was the `more` command, which had the following outputs:
+![Image](pic3-7.png)
 
 ![Image](pic3-8.png)
 
-The fourth alternative I found was the `cat` command, which had the following outputs:
+
+The fourth alternative I found was the `less + F` command, which starts the output at the end of the file. This is useful for handling log files. When new lines are added to the file, the command will display them immediately without having to manually reload the file. This is also useful to find erros as they occur and track the continuous process of adding to the file.
+This had the following outputs on a file versus a directory:
 
 ![Image](pic3-9.png)
+
+![Image](pic3-10.png)
+
+![Image](pic3-11.png)
 
 
 ----
