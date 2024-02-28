@@ -11,7 +11,7 @@ Here is the image of me successfully logging into the account:
 
 ## Step 5: Clone your fork of the repository from your Github account (using the SSH URL)
 
-To clone the fork of the respository from my GitHub account I used the steps: `git clone 'SSH URl` `<enter>`
+To clone the fork of the respository from my GitHub account I used the steps: `git clone 'SSH URl'` `<enter>`
 
 Here is the image of me successfully cloning the respository using the `SSH` URl:
 
