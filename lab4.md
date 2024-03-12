@@ -51,19 +51,23 @@ Here is the image of me running the tests and showing that they all pass:
 
 To commit and push the resulting change to my GitHub accounts I used the steps:
 
-`git status` `git add .` `git commit -m "fixed the error and changed all uses of "sc" to "filter""` `git push origin main`
+`git add ListExamples.java` `git commit -m "fixed the bug in the file"` `git push origin`
 
-These steps: check the status of my repository, sets up the changes I want to commit, commits the changes with the given message, and pushes my changes to the main branch.
+These steps: 
+
+`git add ListExamples.java`: Stages the changes/modifications I made in the `ListExamples.java` file and prepares them to be included in the next `commit` command.
+
+`git commit -m "fixed the bug in the file"`: Commits the staged changes with the given message, documenting the changes made.
+
+`git push origin`: Pushes the committed changes to the remote repository's branch, in this case, `main`, which is the branch the I am currently working on.
 
 Here is the image of me committing and pushing the changes:
 
 ![Image](pic4-6.png)
-![Image](pic4-7.png)
-![Image](pic4-8.png)
 
 And here is the image of my GitHub page, demonstrating that the changes were successfully commited and pushed:
 
-![Image](pic4-9.png)
+![Image](pic4-7.png)
 
 
 
