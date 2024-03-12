@@ -37,7 +37,7 @@ I did these steps to open and edit the file, then the `<G>` key moved me all the
 
 Here is the image of my updates `ListExamples.java` file:
 
-![Image](pic4-4.png)
+![Image](pic44.png)
 
 ## Step 8: Run the tests, demonstrating that they now succeed
 
@@ -63,11 +63,11 @@ These steps:
 
 Here is the image of me committing and pushing the changes:
 
-![Image](pic4-6.png)
+![Image](pic46.png)
 
 And here is the image of my GitHub page, demonstrating that the changes were successfully commited and pushed:
 
-![Image](pic4-7.png)
+![Image](pic47.png)
 
 
 
