@@ -51,13 +51,13 @@ Here is the image of me running the tests and showing that they all pass:
 
 To commit and push the resulting change to my GitHub accounts I used the steps:
 
-`git add ListExamples.java` `git commit -m "fixed the bug in the file"` `git push origin`
+`git add ListExamples.java` `git commit -m "fixed the bug in file"` `git push origin`
 
 These steps: 
 
 `git add ListExamples.java`: Stages the changes/modifications I made in the `ListExamples.java` file and prepares them to be included in the next `commit` command.
 
-`git commit -m "fixed the bug in the file"`: Commits the staged changes with the given message, documenting the changes made.
+`git commit -m "fixed the bug in file"`: Commits the staged changes with the given message, documenting the changes made.
 
 `git push origin`: Pushes the committed changes to the remote repository's branch, which is `main` in this case and is the branch the I am currently working on.
 
