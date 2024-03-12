@@ -52,7 +52,9 @@ Here is the image of me running the tests and showing that they all pass:
 To commit and push the resulting change to my GitHub accounts I used the steps:
 
 `git add ListExamples.java` `<enter>` 
+
 `git commit -m "fixed the bug in file"` `<enter>` 
+
 `git push origin` `<enter>`
 
 These steps mean: 
