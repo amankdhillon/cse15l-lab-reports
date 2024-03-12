@@ -59,7 +59,7 @@ These steps:
 
 `git commit -m "fixed the bug in the file"`: Commits the staged changes with the given message, documenting the changes made.
 
-`git push origin`: Pushes the committed changes to the remote repository's branch, in this case, `main`, which is the branch the I am currently working on.
+`git push origin`: Pushes the committed changes to the remote repository's branch, which is `main` in this case and is the branch the I am currently working on.
 
 Here is the image of me committing and pushing the changes:
 
