@@ -214,4 +214,4 @@ Since the bug was that in the second while loop, `index1` was being incremented 
 
 ## Reflection:
 
-My favorite thing that I learned in lab during the second half of the quarter was the application of `vim` and how easy it was to edit and navigate files while working in the terminal. I also liked learning the shortcuts to navigate the files, such as <G> , <gg>, <0>, etc. These skill significantly made my coding workflow much easier and boosted my productivity during lab sessions.
+My favorite thing that I learned in lab during the second half of the quarter was the application of `vim` and how easy it was to edit and navigate files while working in the terminal. I also liked learning the shortcuts to navigate the files, such as: `<G>` , `<gg>`, `<0>`, etc. These skill significantly made my coding workflow much easier and boosted my productivity during lab sessions.
