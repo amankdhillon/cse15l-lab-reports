@@ -2,7 +2,7 @@
 ----------------
 ## The original post from a student with a screenshot showing a symptom and a description of a guess at the bug/some sense of what the failure-inducing input is.
 
-[!Image](pic5-1.png)
+![Image](pic5-1.png)
 
 I ran my test script for my Java program, and it is failing one of the test cases. The output is showing that there is a failure in the testMerge1 method of ListExamplesTests.java. It is saying that there is a difference in array lengths and that it expected the element at index 3 to be y, but it was at the end of array instead.
 
@@ -26,7 +26,7 @@ Let me know if you need further assistance or if you have any other questions!
 
 ## Another screenshot/terminal output showing what information the student got from trying that, and a clear description of what the bug is.
 
-[!Image](pic5-2.png)
+![Image](pic5-2.png)
 
 The bug in the merge method is casued by the incorrect merging of the input lists. Specifically, the index incrementing inside the second while loop (index1) is incorrect, leading to potentially skipping elements or accessing out-of-bounds indices. The bug specifically was the line `index1 += 2;`. The index is only supposed to increment by 1. Thank you for your help, the bug was solved!
 
